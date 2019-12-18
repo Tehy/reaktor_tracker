@@ -1,0 +1,2 @@
+Mission 001
+We have received a distress signal from the diamond mining vessel Axel Mærsk. We believe the message indicates the ship's location. Radio interference has resulted in a signal which is difficult to decode. We know the signal to be exactly 16 bytes long, and contains no repeating characters.
