@@ -4,7 +4,6 @@
 ##
 
 import json
-from statistics import *
 
 with open('flood.txt','r') as f:
     d=f.read()
